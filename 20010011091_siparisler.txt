@@ -1,0 +1,15 @@
+
+Sipariş: hasan ceyhan/ahmet caddesi kat 5 daire 25/29-05-2022 18:14:12-->
+
+	 kurdan 15 TL 3 adet  Tutarı :75.0 TL
+	 agiz bakim suyu 45 TL 46.0 adet  Tutarı :2070.0 TL
+	 uzum 10 TL 12.0 kilo  Tutarı :120.0 TL
+
+	Toplam sepet tutarı = 4530.0 TL'dir
+
+Sipariş: ali veli/meram/12-06-2022 09:13:37-->
+
+	 elma 5 TL 10 kilo  Tutarı :50.0 TL
+	 dis macunu 50 TL 2.0 adet  Tutarı :100.0 TL
+
+	Toplam sepet tutarı = 300.0 TL'dir

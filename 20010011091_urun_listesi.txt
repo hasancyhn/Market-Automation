@@ -1,0 +1,25 @@
+elma/meyve/5/50.0/kilo
+uzum/meyve/10/70.0/kilo
+muz/meyve/20/30/kilo
+karpuz/meyve/15/5/kilo
+ananas/meyve/19/10/adet
+havuc/sebze/4/100/kilo
+patates/sebze/12/120/kilo
+marul/sebze/7/30/adet
+ispanak/sebze/15/25/kilo
+domates/sebze/25/50/kilo
+yogurt/gida/20/30/adet
+kasar peyniri/gida/120/20/adet
+labne peyniri/gida/50/100/adet
+bal/gida/200/25/adet
+yulaf ezmesi/gida/30/200/kilo
+bulasik deterjani/temizlik/25/100/adet
+sivi sabun/temizlik/22/150.0/adet
+camasir suyu/temizlik/11/95/adet
+yumusatici/temizlik/45/85/adet
+islak mendil/temizlik/4/350/adet
+el kremi/kozmetik/15/125/adet
+dis fircasi/kozmetik/25/50/adet
+dis macunu/kozmetik/50/130/adet
+kurdan/kozmetik/15/250/adet
+agiz bakim suyu/kozmetik/45/120/adet
